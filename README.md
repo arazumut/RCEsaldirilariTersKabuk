@@ -1,4 +1,4 @@
-(Kötü Niyetli kullanılabilecek)Bir ters kabuk (reverse shell) bağlantısı kurmayı hedeflemektedir. İşte adım adım kodun ne yaptığını açıklayan bir rapor: 
+(Kötü Niyetli Kullanılabilecek)Bir ters kabuk (reverse shell) bağlantısı kurmayı hedeflemektedir. İşte adım adım kodun ne yaptığını açıklayan bir rapor: 
 
 1. Giriş
 Kod, hedef bilgisayarda çalıştırıldığında, saldırganın kontrol ettiği bir makineye bağlantı kurarak bir komut kabuğu (shell) açar ve saldırganın bu kabuk üzerinden hedef bilgisayarı kontrol etmesine olanak tanır. Bu tür saldırılar genellikle yetkisiz erişim sağlamak ve sistemde kötü niyetli komutlar çalıştırmak için kullanılır.
