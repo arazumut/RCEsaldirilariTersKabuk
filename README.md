@@ -5,8 +5,7 @@ Kod, hedef bilgisayarda çalıştırıldığında, saldırganın kontrol ettiği
 
 2. Kod Analizi
 2.1. Modül İçe Aktarma
-python
-Kodu kopyala
+
 import socket, subprocess, os
 socket: Ağ bağlantıları kurmak için kullanılır.
 subprocess: Yeni süreçler oluşturmak ve komutlar çalıştırmak için kullanılır.
