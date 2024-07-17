@@ -11,7 +11,7 @@ socket: Ağ bağlantıları kurmak için kullanılır.
 subprocess: Yeni süreçler oluşturmak ve komutlar çalıştırmak için kullanılır.
 os: İşletim sistemi ile ilgili işlevleri yerine getirmek için kullanılır.
 2.2. Soket Oluşturma
-python
+
 Kodu kopyala
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 socket.AF_INET: IPv4 adres ailesini kullanır.
