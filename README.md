@@ -14,8 +14,6 @@ Kod, hedef bilgisayarda çalıştırıldığında, saldırganın kontrol ettiği
 2.1. Modül İçe Aktarma
 
 
-
-
 import socket, subprocess, os
 socket: Ağ bağlantıları kurmak için kullanılır.
 subprocess: Yeni süreçler oluşturmak ve komutlar çalıştırmak için kullanılır.
