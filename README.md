@@ -20,6 +20,7 @@ subprocess: Yeni süreçler oluşturmak ve komutlar çalıştırmak için kullan
 os: İşletim sistemi ile ilgili işlevleri yerine getirmek için kullanılır.
 2.2. Soket Oluşturma
 
+
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 socket.AF_INET: IPv4 adres ailesini kullanır.
 socket.SOCK_STREAM: TCP bağlantı türünü kullanır.
