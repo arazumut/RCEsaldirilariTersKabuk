@@ -10,7 +10,7 @@ if($shell){
     }
     fclose($shell);
 }
-# sisteminizde çalıştırmayınız ve lütfen eğitim amaçlı kullanınız
+# Sisteminizde çalıştırmayınız ve lütfen eğitim amaçlı kullanınız
 # by Kamil Umut Araz
 ?>
     
