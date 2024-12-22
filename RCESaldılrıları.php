@@ -11,7 +11,7 @@ if($shell){
     fclose($shell);
 }
 # Sisteminizde çalıştırmayınız ve lütfen eğitim amaçlı kullanınız
-# by Kamil Umut Araz
+#Produced by Kamil Umut Araz
 ?>
     
 
